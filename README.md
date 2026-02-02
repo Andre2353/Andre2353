@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, I'm Andre passos dos santos</h1>
-<h3 align="center">estudante de desenvolvimento de sistemas no SENAI Swiss-Brazilian</h3>
+<h3 align="center">student of systems development at SENAI Swiss-Brazilian</h3>
 
 - 📫 Como me contactar **andrepassosdossantos64@gmai.com**
 
