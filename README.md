@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Banner Animado Header (Cores Dark/Roxo) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=181825&height=200&section=header&text=André%20Passos&fontSize=60&animation=fadeIn&fontColor=cba6f7" />
+  <!-- Banner Animado Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=181825&height=220&section=header&text=André%20Passos&fontSize=60&animation=fadeIn&fontColor=cba6f7" />
 
   <!-- Contador Total de Visitas -->
   <p align="center">
@@ -9,7 +9,7 @@
 
   <!-- Texto Animado (Typing SVG) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=Estudante+de+Desenvolvimento+de+Sistemas;Focado+em+Desenvolvimento+Back-End;Java+%7C+JavaScript+%7C+APIs+REST;SENAI+Suico-Brasileiro" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CBA6F7&center=true&vCenter=true&width=550&lines=Desenvolvedor+Back-End+em+Formacao;Java+%7C+Spring+Boot+%7C+Node.js;APIs+REST+%7C+Bancos+de+Dados;SENAI+Suico-Brasileiro" alt="Typing SVG" />
   </a>
 
   <br /><br />
@@ -34,40 +34,54 @@
 
 ### 🚀 Sobre Mim
 
-- 🎓 Cursando **Desenvolvimento de Sistemas** no SENAI Suíço-Brasileiro
-- 💻 Focado em **Desenvolvimento Web, Backend e Integração de APIs**
-- 🎯 Buscando oportunidades para aplicar e expandir minhas habilidades técnicas
-- 📬 **Contato:** [andrepassosdossantos64@gmail.com](mailto:andrepassosdossantos64@gmail.com)
+- 🎓 **Formação:** Cursando **Desenvolvimento de Sistemas** no SENAI Suíço-Brasileiro
+- 💻 **Foco de Atuação:** Desenvolvimento Web, Engenharia Back-End e APIs RESTful
+- 📚 **Aprendendo Atualmente:** Arquitetura de Software e Boas Práticas (Clean Code)
+- 🎯 **Objetivo:** Criar aplicações escaláveis e eficientes resolvendo problemas reais
+- 📬 **E-mail:** [andrepassosdossantos64@gmail.com](mailto:andrepassosdossantos64@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=313244&height=4" width="100%" />
 
-### 🛠️ Skills & Tecnologias
+### 🛠️ Tech Stack & Ferramentas
 
-**Linguagens & Sistema**
+**Linguagens & Frameworks Back-End**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-</p>
-
-**APIs & Ferramentas Backend**
-<p align="left">
-  <img src="https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=json&logoColor=white" alt="REST API"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+**Bancos de Dados & Sistema**
+<p align="left">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+</p>
+
+**Ferramentas, Controle de Versão & Teste de APIs**
+<p align="left">
+  <img src="https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=json&logoColor=white" alt="REST API"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=313244&height=4" width="100%" />
 
-### 📜 Citação Dev do Dia
+### 📌 Destaques & Interatividade
 
 <div align="center">
+  <!-- Quote Card -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&border_color=313244" alt="Quote Card" />
+
+  <br /><br />
+
+  <!-- Dev Joke Card -->
+  <img src="https://readme-jokes.vercel.app/api?bg_color=181825&title_color=cba6f7&text_color=cdd6f4&border_color=313244" alt="Jokes Card" />
 </div>
 
 <br />
@@ -80,14 +94,6 @@
   </a>
 </div>
 
-<br />
-
-### 💡 Dev Joke
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?bg_color=181825&title_color=cba6f7&text_color=cdd6f4&border_color=313244" alt="Jokes Card" />
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=313244&height=4" width="100%" />
 
 ### 🌐 Conecte-se Comigo
@@ -98,6 +104,9 @@
   </a>
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/andre2353" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
