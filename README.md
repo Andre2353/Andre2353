@@ -28,6 +28,13 @@
   <a href="https://github.com/andre2353">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=andre2353&background=181825&border=313244&stroke=cba6f7&ring=cba6f7&fire=cba6f7&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=cba6f7&sideLabels=6c7086&dates=6c7086" alt="GitHub Streak" />
   </a>
+
+  <br /><br />
+
+  <!-- Estatísticas de Tempo de Programação (WakaTime) -->
+  <a href="https://github.com/andre2353">
+    <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=andre2353&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&layout=compact" alt="WakaTime Stats" />
+  </a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=313244&height=4" width="100%" />
