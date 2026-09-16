@@ -1,10 +1,11 @@
 <div align="center">
-  <!-- Contador de Visitas -->
-  <p align="right">
+  <!-- Banner Animado de Ondas Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=radical&height=200&section=header&text=André%20Passos&fontSize=60&animation=fadeIn&fontColor=ffffff" />
+
+  <!-- Contador Total de Visitas -->
+  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=andre2353&label=Visitas%20no%20perfil&color=8A2BE2&style=flat-square" alt="Contador de Visitas" />
   </p>
-
-  <h1 align="center">Oi 👋, eu sou André Passos dos Santos</h1>
 
   <!-- Texto Animado (Typing SVG) -->
   <a href="https://git.io/typing-svg">
@@ -16,6 +17,13 @@
   <!-- Troféus Dinâmicos do GitHub -->
   <a href="https://github.com/andre2353">
     <img src="https://github-profile-trophy.vercel.app/?username=andre2353&theme=radical" alt="Troféus do GitHub" />
+  </a>
+
+  <br /><br />
+
+  <!-- Gráfico de Atividade Recente em Linha -->
+  <a href="https://github.com/andre2353">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=andre2353&theme=react-dark&hide_border=true&area=true" width="100%" alt="Gráfico de Atividades" />
   </a>
 
   <br /><br />
@@ -34,9 +42,14 @@
   <a href="https://github.com/andre2353">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=andre2353&theme=radical" alt="GitHub Streak" />
   </a>
+
+  <br /><br />
+
+  <!-- Cobra Comendo o Gráfico de Commits (GitHub Snake) -->
+  <img src="https://raw.githubusercontent.com/andre2353/andre2353/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=radical&height=4" width="100%" />
 
 ### 🚀 Sobre Mim
 
@@ -45,7 +58,7 @@
 - 🎯 Buscando oportunidades para aplicar e expandir minhas habilidades técnicas
 - 📬 **Contato:** [andrepassosdossantos64@gmail.com](mailto:andrepassosdossantos64@gmail.com)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=radical&height=4" width="100%" />
 
 ### 🛠️ Skills & Tecnologias
 
@@ -68,15 +81,33 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=radical&height=4" width="100%" />
 
-### 💡 Dev Joke (Atualiza Dinamicamente)
+### 📜 Citação Dev do Dia (Atualiza Sozinha)
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote Card" />
+</div>
+
+<br />
+
+### 🌍 Origem dos Visitantes
+
+<div align="center">
+  <a href="https://info.flagcounter.com/90dM">
+    <img src="https://s11.flagcounter.com/count2/90dM/bg_141321/txt_FFFFFF/border_141321/columns_4/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" />
+  </a>
+</div>
+
+<br />
+
+### 💡 Dev Joke
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=radical&height=4" width="100%" />
 
 ### 🌐 Conecte-se Comigo
 
@@ -88,3 +119,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
+<!-- Rodapé Animado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=radical&height=100&section=footer" width="100%" />
