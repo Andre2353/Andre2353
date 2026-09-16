@@ -5,10 +5,10 @@
   <br />
 
   <a href="https://github.com/SEU_USUARIO_GITHUB">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/SEU_USUARIO_GITHUB">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dracula&hide=html"/>
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=donut&theme=radical"/>
   </a>
 </div>
 
@@ -17,34 +17,20 @@
 ### 🚀 Sobre Mim
 
 - 🎓 Cursando **Desenvolvimento de Sistemas** no SENAI Suíço-Brasileiro
-- 💻 Focado em aprimorar conhecimentos em **Desenvolvimento Web e Backend**
+- 💻 Focado em **Desenvolvimento Web e Backend**
 - 🎯 Buscando oportunidades para aplicar e expandir minhas habilidades técnicas
 - 📬 **Contato:** [andrepassosdossantos64@gmail.com](mailto:andrepassosdossantos64@gmail.com)
 
 ---
 
-### 🛠️ Línguas e Ferramentas
+### 🛠️ Skills & Tecnologias
 
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="45" height="45"/>
-  </a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
 </p>
 
 ---
