@@ -14,13 +14,6 @@
 
   <br /><br />
 
-  <!-- Troféus Dinâmicos do GitHub -->
-  <a href="https://github.com/andre2353">
-    <img src="https://github-profile-trophy.vercel.app/?username=andre2353&theme=radical" alt="Troféus do GitHub" />
-  </a>
-
-  <br /><br />
-
   <!-- Gráfico de Atividade Recente em Linha -->
   <a href="https://github.com/andre2353">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=andre2353&theme=react-dark&hide_border=true&area=true" width="100%" alt="Gráfico de Atividades" />
