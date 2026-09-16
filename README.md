@@ -14,13 +14,6 @@
 
   <br /><br />
 
-  <!-- Gráfico de Atividade Recente (Customizado no esquema de cores Dark/Roxo) -->
-  <a href="https://github.com/andre2353">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=andre2353&bg_color=181825&color=cba6f7&line=cba6f7&point=cdd6f4&area=true&hide_border=true" width="100%" alt="Gráfico de Atividades" />
-  </a>
-
-  <br /><br />
-
   <!-- Estatísticas Gerais e Linguagens Mais Usadas -->
   <a href="https://github.com/andre2353">
     <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=andre2353&show_icons=true&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&include_all_commits=true&count_private=true"/>
@@ -34,13 +27,6 @@
   <!-- Sequência de Commits (GitHub Streak) -->
   <a href="https://github.com/andre2353">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=andre2353&background=181825&border=313244&stroke=cba6f7&ring=cba6f7&fire=cba6f7&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=cba6f7&sideLabels=6c7086&dates=6c7086" alt="GitHub Streak" />
-  </a>
-
-  <br /><br />
-
-  <!-- Painel de Resumo do Perfil (GitHub Profile Summary Card) -->
-  <a href="https://github.com/andre2353">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andre2353&theme=github_dark" width="100%" alt="Detalhes do Perfil" />
   </a>
 </div>
 
