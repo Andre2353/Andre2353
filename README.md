@@ -1,15 +1,22 @@
 <div align="center">
-  <!-- Banner Animado Tema Dark / Hollow Knight -->
+  <!-- Banner Animado Header (Cores Dark/Roxo) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=181825&height=200&section=header&text=André%20Passos&fontSize=60&animation=fadeIn&fontColor=cba6f7" />
 
   <!-- Contador Total de Visitas -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=andre2353&label=Visitas%20em%20Hallownest&color=313244&style=flat-square" alt="Contador de Visitas" />
+    <img src="https://komarev.com/ghpvc/?username=andre2353&label=Visitas%20no%20perfil&color=313244&style=flat-square" alt="Contador de Visitas" />
   </p>
 
   <!-- Texto Animado (Typing SVG) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=Estudante+de+Desenvolvimento+de+Sistemas;Focado+em+Desenvolvimento+Back-End;Java+%7C+JavaScript+%7C+APIs+REST;Desbravando+as+profundezas+do+codigo..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=Estudante+de+Desenvolvimento+de+Sistemas;Focado+em+Desenvolvimento+Back-End;Java+%7C+JavaScript+%7C+APIs+REST;SENAI+Suico-Brasileiro" alt="Typing SVG" />
+  </a>
+
+  <br /><br />
+
+  <!-- Gráfico de Atividade Recente (Customizado no esquema de cores Dark/Roxo) -->
+  <a href="https://github.com/andre2353">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=andre2353&bg_color=181825&color=cba6f7&line=cba6f7&point=cdd6f4&area=true&hide_border=true" width="100%" alt="Gráfico de Atividades" />
   </a>
 
   <br /><br />
@@ -28,13 +35,18 @@
   <a href="https://github.com/andre2353">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=andre2353&background=181825&border=313244&stroke=cba6f7&ring=cba6f7&fire=cba6f7&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=cba6f7&sideLabels=6c7086&dates=6c7086" alt="GitHub Streak" />
   </a>
+
+  <br /><br />
+
+  <!-- Painel de Resumo do Perfil (GitHub Profile Summary Card) -->
+  <a href="https://github.com/andre2353">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andre2353&theme=github_dark" width="100%" alt="Detalhes do Perfil" />
+  </a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=313244&height=4" width="100%" />
 
-### 🗡️ Sobre Mim (Hallownest Explorer)
-
-> *"No cost too great. No mind to think. No will to break."*
+### 🚀 Sobre Mim
 
 - 🎓 Cursando **Desenvolvimento de Sistemas** no SENAI Suíço-Brasileiro
 - 💻 Focado em **Desenvolvimento Web, Backend e Integração de APIs**
@@ -43,7 +55,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=313244&height=4" width="100%" />
 
-### 🛠️ Skills & Charms (Ferramentas)
+### 🛠️ Skills & Tecnologias
 
 **Linguagens & Sistema**
 <p align="left">
@@ -74,7 +86,7 @@
 
 <br />
 
-### 🌍 Origem dos Visitantes de Hallownest
+### 🌍 Origem dos Visitantes
 
 <div align="center">
   <a href="https://info.flagcounter.com/90dM">
@@ -103,5 +115,5 @@
   </a>
 </p>
 
-<!-- Rodapé Animado Tema Dark -->
+<!-- Rodapé Animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=181825&height=100&section=footer" width="100%" />
