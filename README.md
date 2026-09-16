@@ -8,14 +8,14 @@
 
   <!-- Texto Animado (Typing SVG) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6E96&center=true&vCenter=true&width=500&lines=Estudante+de+Desenvolvimento+de+Sistemas;Focado+em+Desenvolvimento+Back-End;Java+%7C+JavaScript+%7C+APIs+REST;SENAI+Su%C3%AD%C3%A7o-Brasileiro+🇨🇭🇧🇷" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6E96&center=true&vCenter=true&width=500&lines=Estudante+de+Desenvolvimento+de+Sistemas;Focado+em+Desenvolvimento+Back-End;Java+%7C+JavaScript+%7C+APIs+REST;SENAI+Suico-Brasileiro" alt="Typing SVG" />
   </a>
 
   <br /><br />
 
   <!-- Troféus Dinâmicos do GitHub -->
   <a href="https://github.com/andre2353">
-    <img src="https://github-profile-trophy.vercel.app/?username=andre2353&theme=radical&margin-w=15&margin-h=15&column=4" alt="Troféus do GitHub" />
+    <img src="https://github-profile-trophy.vercel.app/?username=andre2353&theme=radical" alt="Troféus do GitHub" />
   </a>
 
   <br /><br />
