@@ -4,10 +4,10 @@
 
   <br />
 
-  <a href="https://github.com/SEU_USUARIO_GITHUB">
+  <a href="https://github.com/andre2353">
     <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/SEU_USUARIO_GITHUB">
+  <a href="https://github.com/andre2353">
     <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=donut&theme=radical"/>
   </a>
 </div>
