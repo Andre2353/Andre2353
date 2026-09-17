@@ -9,12 +9,12 @@
 
   <!-- Texto Animado (Typing SVG) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CBA6F7&center=true&vCenter=true&width=550&lines=Desenvolvedor+Back-End+em+Formacao;Java+%7C+Spring+Boot+%7C+Node.js;APIs+REST+%7C+Bancos+de+Dados;SENAI+Suico-Brasileiro" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CBA6F7&center=true&vCenter=true&width=550&lines=Desenvolvedor+Back-End+em+Formacao;Java+%7C+Spring+Boot+%7C+JPA;APIs+REST+%7C+MySQL;SENAI+Suico-Brasileiro" alt="Typing SVG" />
   </a>
 
   <br /><br />
 
-  <!-- Estatísticas Gerais e Linguagens (Com Cache Reduzido para Atualização Rápida) -->
+  <!-- Estatísticas Gerais e Linguagens -->
   <a href="https://github.com/andre2353">
     <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=andre2353&show_icons=true&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   </a>
@@ -42,8 +42,9 @@
 ### 🚀 Sobre Mim
 
 - 🎓 **Formação:** Cursando **Desenvolvimento de Sistemas** no SENAI Suíço-Brasileiro
-- 💻 **Foco de Atuação:** Desenvolvimento Web, Engenharia Back-End e APIs RESTful
-- 📚 **Aprendendo Atualmente:** Arquitetura de Software e Boas Práticas (Clean Code)
+- 💻 **Foco de Atuação:** Back-End com **Java + Spring Boot**, construção de APIs REST completas (Controller → Service → Repository) com tratamento de erros e validação padronizados
+- 🗄️ **Trabalho com:** Spring Data JPA, MySQL e modelagem de relacionamentos entre entidades
+- 📚 **Aprendendo Atualmente:** Arquitetura de Software, Clean Code e boas práticas de API design
 - 🎯 **Objetivo:** Criar aplicações escaláveis e eficientes resolvendo problemas reais
 - 📬 **E-mail:** [andrepassosdossantos64@gmail.com](mailto:andrepassosdossantos64@gmail.com)
 
@@ -55,14 +56,15 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Data JPA"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 **Bancos de Dados & Sistema**
 <p align="left">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 </p>
@@ -75,6 +77,24 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=313244&height=4" width="100%" />
+
+### 📌 Projetos em Destaque
+
+<p align="left">
+  <a href="https://github.com/Andre2353/TechStore">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Andre2353&repo=TechStore&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244" />
+  </a>
+  <a href="https://github.com/Andre2353/Relulab">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Andre2353&repo=Relulab&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/Andre2353/ppdm-base">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Andre2353&repo=ppdm-base&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244" />
+  </a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=313244&height=4" width="100%" />
@@ -108,9 +128,6 @@
 <p align="left">
   <a href="mailto:andrepassosdossantos64@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/andre2353" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
