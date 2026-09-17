@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Banner Animado Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=181825&height=220&section=header&text=André%20Passos&fontSize=60&animation=fadeIn&fontColor=cba6f7" />
+  <!-- Banner Animado Header com Gradiente -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:181825,50:313244,100:cba6f7&height=220&section=header&text=André%20Passos&fontSize=60&animation=fadeIn&fontColor=ffffff" width="100%" />
 
   <!-- Contador Total de Visitas -->
   <p align="center">
@@ -11,6 +11,15 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CBA6F7&center=true&vCenter=true&width=550&lines=Desenvolvedor+Back-End+em+Formacao;Java+%7C+Spring+Boot+%7C+JPA;APIs+REST+%7C+MySQL;SENAI+Suico-Brasileiro" alt="Typing SVG" />
   </a>
+
+  <br /><br />
+
+  <!-- Snake Animation (Cobrinha de Contribuições) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andre2353/andre2353/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andre2353/andre2353/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/andre2353/andre2353/output/github-contribution-grid-snake.svg">
+  </picture>
 
   <br /><br />
 
@@ -135,4 +144,4 @@
 </p>
 
 <!-- Rodapé Animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=181825&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:181825,100:313244&height=100&section=footer" width="100%" />
