@@ -16,24 +16,24 @@
 
   <!-- Estatísticas Gerais e Linguagens -->
   <a href="https://github.com/andre2353">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=andre2353&show_icons=true&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=andre2353&show_icons=true&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&include_all_commits=true&count_private=true&cache_seconds=1800&v=2"/>
   </a>
   <a href="https://github.com/andre2353">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=andre2353&layout=donut&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=andre2353&layout=donut&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&cache_seconds=1800&v=2"/>
   </a>
 
   <br /><br />
 
   <!-- Sequência de Commits (GitHub Streak) -->
   <a href="https://github.com/andre2353">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=andre2353&background=181825&border=313244&stroke=cba6f7&ring=cba6f7&fire=cba6f7&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=cba6f7&sideLabels=6c7086&dates=6c7086&cache_seconds=1800" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=andre2353&background=181825&border=313244&stroke=cba6f7&ring=cba6f7&fire=cba6f7&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=cba6f7&sideLabels=6c7086&dates=6c7086&cache_seconds=1800&v=2" alt="GitHub Streak" />
   </a>
 
   <br /><br />
 
   <!-- Estatísticas de Tempo de Programação (WakaTime) -->
   <a href="https://github.com/andre2353">
-    <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=andre2353&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&layout=compact&cache_seconds=1800" alt="WakaTime Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=andre2353&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&layout=compact&cache_seconds=1800&v=2" alt="WakaTime Stats" />
   </a>
 </div>
 
@@ -85,15 +85,15 @@
 
 <p align="left">
   <a href="https://github.com/Andre2353/TechStore">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Andre2353&repo=TechStore&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Andre2353&repo=TechStore&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&v=2" />
   </a>
   <a href="https://github.com/Andre2353/Relulab">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Andre2353&repo=Relulab&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Andre2353&repo=Relulab&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&v=2" />
   </a>
 </p>
 <p align="left">
   <a href="https://github.com/Andre2353/ppdm-base">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Andre2353&repo=ppdm-base&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Andre2353&repo=ppdm-base&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&v=2" />
   </a>
 </p>
 
