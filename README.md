@@ -9,7 +9,7 @@
 
   <!-- Texto Animado (Typing SVG) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CBA6F7&center=true&vCenter=true&width=550&lines=Desenvolvedor+Back-End+em+Formacao;Java+%7C+Spring+Boot+%7C+JPA;APIs+REST+%7C+MySQL;SENAI+Suico-Brasileiro;Construindo+solucoes+escalaveis" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CBA6F7&center=true&vCenter=true&width=550&lines=Especializando+em+Java+%26+SQL;Modelagem+de+Dados+%7C+Queries+Avancadas;Java+%7C+Spring+Boot+%7C+JPA;MySQL+%7C+Oracle+%7C+APIs+REST;SENAI+Suico-Brasileiro" alt="Typing SVG" />
   </a>
 
   <br /><br />
@@ -43,21 +43,21 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> Sobre Mim
 
 - 🎓 **Formação:** Cursando **Desenvolvimento de Sistemas** no SENAI Suíço-Brasileiro
-- 💻 **Foco de Atuação:** Back-End com **Java + Spring Boot**, construção de APIs REST completas (Controller → Service → Repository) com tratamento de erros e validação padronizados
-- 🗄️ **Trabalho com:** Spring Data JPA, MySQL e modelagem de relacionamentos entre entidades
-- 📚 **Aprendendo Atualmente:** Arquitetura de Software, Clean Code e boas práticas de API design
-- 🎯 **Objetivo:** Criar aplicações escaláveis e eficientes resolvendo problemas reais
+- ☕ **Foco Principal em Java:** Desenvolvimento Back-End robusto com **Java + Spring Boot**, construindo APIs REST escaláveis (Controller → Service → Repository) com boas práticas de arquitetura
+- 🗄️ **Foco Principal em SQL:** Modelagem de bancos de dados relacionais, criação de consultas **SQL avançadas**, manipulação de dados (DDL/DML), otimização com índices e integração via **Spring Data JPA / Hibernate**
+- 📚 **Aprofundando Conhecimentos:** Normalização de banco de dados, tuning de queries, DTOs, tratamento de exceções customizado e Clean Code
+- 🎯 **Objetivo:** Criar aplicações de alta performance integrando código Java limpo a bancos de dados eficientes
 - 📬 **E-mail:** [andrepassosdossantos64@gmail.com](mailto:andrepassosdossantos64@gmail.com)
 
 <!-- Divisor Animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=313244&height=100&section=header" width="100%" />
 
-### 🛠️ Tech Stack & Ferramentas
+### 🛠️ Tech Stack & Ferramentas (Foco em Java & SQL)
 
 <!-- Ícones Dinâmicos das Tecnologias -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,js,mysql,oracle,linux,html,postman,idea,vscode,git,github&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,oracle,idea,git,github,postman,linux,js,nodejs,vscode&theme=dark&perline=7" />
   </a>
 </p>
 
@@ -66,9 +66,11 @@
 <!-- Badges Estilizados Adicionais -->
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Data JPA"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=json&logoColor=white" alt="REST API"/>
 </p>
 
