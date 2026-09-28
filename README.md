@@ -14,6 +14,11 @@
 
   <br /><br />
 
+  <!-- Gráfico 3D de Contribuições -->
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph" width="100%" />
+
+  <br /><br />
+
   <!-- Estatísticas Gerais e Linguagens -->
   <a href="https://github.com/andre2353">
     <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=andre2353&show_icons=true&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&include_all_commits=true&count_private=true&cache_seconds=1800&v=2"/>
