@@ -16,16 +16,6 @@
 
   <!-- Gráfico 3D de Contribuições -->
   <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph" width="100%" />
-
-  <br /><br />
-
-  <!-- Estatísticas Gerais e Linguagens -->
-  <a href="https://github.com/andre2353">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=andre2353&show_icons=true&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&include_all_commits=true&count_private=true&cache_seconds=1800&v=2"/>
-  </a>
-  <a href="https://github.com/andre2353">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=andre2353&layout=donut&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=b4bfee&border_color=313244&cache_seconds=1800&v=2"/>
-  </a>
 </div>
 
 <!-- Divisor Animado em Onda -->
@@ -43,7 +33,7 @@
 <!-- Divisor Animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=313244&height=100&section=header" width="100%" />
 
-### 🛠️ Tech Stack & Ferramentas (Foco em Java & SQL)
+### 🛠️️ Tech Stack & Ferramentas (Foco em Java & SQL)
 
 <!-- Ícones Dinâmicos das Tecnologias -->
 <p align="center">
@@ -95,20 +85,6 @@
 
 <!-- Divisor Animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=313244&height=100&section=header" width="100%" />
-
-### 📌 Destaques & Interatividade
-
-<div align="center">
-  <!-- Quote Card -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&border_color=313244" alt="Quote Card" />
-
-  <br /><br />
-
-  <!-- Dev Joke Card -->
-  <img src="https://readme-jokes.vercel.app/api?bg_color=181825&title_color=cba6f7&text_color=cdd6f4&border_color=313244" alt="Jokes Card" />
-</div>
-
-<br />
 
 ### 🌍 Origem dos Visitantes
 
